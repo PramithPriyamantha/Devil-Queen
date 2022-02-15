@@ -140,8 +140,8 @@ Only original [Devil-Queen](https://github.com/PramithPriyamantha/Devil-Queen) d
 **Eva** is powered with neural networks, artificial brain cells and brain that can remember conversation. **Eva** developed by me for like a virtual assistants. __(Siri, Sam, Tesla etc..)__ 
 Devil-Queen has %5 data of **Eva** to interact with users. Our gan datas stored on Brainshop. If users want to access **Eva**, they must start message with `Eva`
 
-### 🐺 What does Asena mean?
-[Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
+### 🐺 What does Devil mean?
+[Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Devil is a she-wolf that plays an important role.
 
 <details>
   <summary><h3>Other Questions ❔</h3></summary>

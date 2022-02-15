@@ -51,13 +51,13 @@ Save (remove bg,hekoru api key ,imagbb Api Key) waching Full Video..🙏
 
 <div align="center">
 
-  ![Devil-Queen Logo](https://media0.giphy.com/media/WzWhxbIKpCCCYfTS3a/InShot_20220214_172614462.jpg?cid=6c09b952ca458f6d0fdd2de872ae4335ca70b7c23958106f&rid=InShot_20220214_172614462.jpg)
+  ![Devil-Queen Logo](InShot_20220214_172614462.jpg)
 
 <!---
 .mp4 version available on local file
 -->
 
-  <h1>🐺 Devil-Queen</h1>
+  <h1>🍃Devil-Queen🍁</h1>
 </div>
 <p align="center">
     Devil-Queen project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.

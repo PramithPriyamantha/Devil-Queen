@@ -189,7 +189,7 @@ Your account may be banned for the following reasons:
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![PramithPriyamantha](https://github.com/PramithPriyamantha.png?size=100)](https://github.com/PramithPriyamantha) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=80)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=80)](https://github.com/CW4RR10R)
+[![Yusuf Usta](https://github.com/pramith.jpg?size=100)](https://www.fusuf.codes) | [![PramithPriyamantha](https://github.com/Prageeth.jpg?size=100)](https://github.com/PramithPriyamantha) | [![Alperen Ç](https://github.com/Praveen.jpg?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/praneeth.jpg?size=80)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=80)](https://github.com/CW4RR10R)
 ----|----|----|----|----
 [Yusuf Usta](https://t.me/fusufs) | [PramithPriyamantha](https://github.com/PramithPriyamantha) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
 Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules

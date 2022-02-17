@@ -1,5 +1,5 @@
 /* 
-Sew Queen Whatsapp Bot      
+Devil Queen Whatsapp Bot      
 
 WhatsApp: https://wa.me+94771348017
 WhatsApp: https://wa.me+94771348017
